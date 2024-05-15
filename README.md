@@ -1,6 +1,6 @@
 # lab-react-app
 
-This is my React lab. There are no issues. It was developed in Visual Studio Code. < br/>
+This is my React lab. There are no issues. It was developed in Visual Studio Code. <br />
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
